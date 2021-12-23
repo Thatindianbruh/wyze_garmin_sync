@@ -83,6 +83,10 @@ product model: JA.SC
 Take the mac address and edit scale.py to add it like this 
 scale = client.scales.info(device_mac='**JA.SC.XXXXXXXXXXXX**')
 
+#### Run the script
+
+In your working directory run connect_sync.sh and if all goes well you should be able to see your data in garmin connect
+
 #### Setup with Cron 
 
 Will run the script every 10 min to get if a new measurment has been made on the scale.

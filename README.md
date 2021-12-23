@@ -1,9 +1,9 @@
 # wyze_garmin_sync
 Scale sync between Wyze Scale and Garmin connect
 
-This is a script shell allowing you to leverage  [Garmin-uploader](https://github.com/La0/garmin-uploader),[Wyze_SDK](https://github.com/shauntarves/wyze-sdk) and [Garmin Fit SDK](https://developer.garmin.com/fit/fitcsvtool/) fitcsvtool.
+This is a script shell allowing you to leverage  [Garmin-uploader](https://github.com/La0/garmin-uploader),[Wyze_SDK](https://github.com/shauntarves/wyze-sdk) and [Garmin Fit SDK](https://developer.garmin.com/fit/fitcsvtool/) fitcsvtool to autoamtically upload the last measure on your Wyze Smart scale in Garmin Connect.
 
-I removed the 2FA as i want the script to run automatically without any input, then i recommand extra strong password and to take all the precautions you need.
+*I removed the 2FA as i want the script to run automatically without any input, then i recommand extra strong password and to take all the precautions you need.*
 
 ### Requirements 
 

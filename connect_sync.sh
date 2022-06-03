@@ -4,7 +4,9 @@ WYZE_PASSWORD=yourpassword
 Garmin_username=youremail
 Garmin_password=yourpassword
 export WYZE_EMAIL
-export WYZE_PASSWORD
+export WYZE_PASSWORD 
+#uncomment the bottom line to find your scale Mac address. It's easier to find your mac using the wyze app in the device info section.
+#python3 ./mac_address_devices.py
 cd /path_to_yourscript/
 rm ./test
 rm ./test5
